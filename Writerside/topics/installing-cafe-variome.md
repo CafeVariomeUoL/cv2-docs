@@ -168,8 +168,9 @@ In a terminal pointing to the root directory of Café Variome, run the following
 The first command fetches the dependencies from the composer.json file and sets up the bootstrap script.
 
 The second command calls the interactive command line install tool. Follow the on-screen instructions (as shown below) to successfully install Cafe Variome.
-<img alt="Installation" height="1000" src="installation.avif" title="Installation" width="1000"/>
+
+<img height="1000" src="installation.png" width="1000"/>
 
 
 ## Contact and Support
-For any queries related to Cafe Variome, refer to the FAQs or kindly contact [Patrick](yw554@leicester.ac.uk).
+For any queries related to Cafe Variome, refer to the FAQs or kindly contact Patrick.

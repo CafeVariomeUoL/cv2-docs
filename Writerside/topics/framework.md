@@ -24,7 +24,7 @@ Cafe Variome functions using 6 basic layers:
 
 An in-depth view of the above architecture is as follows:
 
-<img alt="Full Architecture" height="1000" src="fullarchitecture.avif" width="1000" title="Full Architecture"/>
+<img height="1000" src="fullarchitecture.png" width="1000"/>
 
 All of these parts are individually described in further sections.
 
@@ -36,7 +36,7 @@ This is a lightweight program, written in PHP 8.0,  that runs in the background.
 
 >You do not have to do anything; it is automatically invoked after successful installation of Cafe Variome. 
 
-<img height="1000" src="DaemonProcess.avif" title="Daemon Process" width="1000"/>
+<img height="1000" src="DaemonProcess.png" width="1000"/>
 
 It provides communication between spawned processes and the user interface using sockets and server-side events (SSE).
 
