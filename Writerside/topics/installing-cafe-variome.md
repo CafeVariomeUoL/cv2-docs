@@ -1,6 +1,6 @@
 # Installing Cafe Variome
 
-`The installation guide for Linux-based systems.`
+>The installation guide for Linux-based systems.
 
 ## Overview
 

@@ -1,10 +1,11 @@
 # Troubleshoot Guide
 
-`FAQs for installing Cafe Variome`
+>FAQs for installing Cafe Variome
 
 ## Installation Errors
 
-`Running composer CVInstall command returns an error`
+>Running composer CVInstall command returns an error
+> {style="warning"}
 
 **Problem Description**: The `composer CVInstall` command is the final step in the installation process for Cafe Variome. It should set up Cafe Variome successfully on your local environment if all the requirements listed at System Requirements are met and you've followed the installation process outlined in Installing Cafe Variome page. If you encounter an error while running this command, follow these steps to troubleshoot the issue:
 
@@ -118,7 +119,7 @@ By following these steps, you should be able to resolve the error you encountere
 By following these steps and ensuring that your Apache configuration matches the provided example, you should be able to address the blank white screen or 404 Not Found error and get Cafe Variome up and running correctly.
 
 >Error After Clicking Login on the Landing Page
-> >{style="warning"}
+>{style="warning"}
 
 **Problem Description:** If you can access the landing page (http://localhost/YourCafeVariomeBaseURL/) but encounter a 404 error when clicking on the login link, it may be due to the mod_rewrite module being disabled in Apache. Follow these steps to resolve the issue:
 

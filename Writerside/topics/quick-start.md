@@ -1,12 +1,12 @@
 # Quick Start
 
-`Post-installation steps to setup Café Variome.`
+>Post-installation steps to setup Café Variome.
 
 
 ## Prerequisites
 After successful installation of Cafe Variome, you will be shown the following info:
 
-`Setup completed. Remember that you must remove the Install directory completely. `
+>Setup completed. Remember that you must remove the Install directory completely. 
 
 Please remove the /Install directory that came with the software package as it is no longer needed.
 

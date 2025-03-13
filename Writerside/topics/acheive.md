@@ -2,7 +2,7 @@
 
 ## Data Discovery
 
-`Discover the data with our powerful query engine. But....why data discovery?`
+>Discover the data with our powerful query engine. But....why data discovery?
 
 Lack of data and costs of data generation was the major limiters for innovative biomedical research. However, huge amounts of data are generated daily using modern biotechnology methods in a vast array of settings, from primary/secondary health to biomedical researchers to personal health devices.
 
