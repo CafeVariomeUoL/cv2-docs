@@ -16,6 +16,6 @@ An Administrators Dashboard is made available to get an overview of all things d
 
 Admin Dashboard can be quickly used to identify any issues in the status of servers being used i.e., to verify whether services such as Elasticsearch, OIDC Provider and Neo4j are functioning properly.
 
-<img alt="Admin Dashboard" height="1000" src="admin_dashboard.avif" title="Admin Dashboard" width="1000"/>
+<img height="1000" src="Admin_Dashboard_2.png" width="1000"/>
 
 As seen above, this main page is an unrestricted access point to manage **sources, data management, networks, access groups, users, content management and system (installation) settings.** 
