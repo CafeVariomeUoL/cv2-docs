@@ -5,6 +5,19 @@
 <instance-profile id="cd"
                  name="CV2 Documents"
                  start-page="introduction.md">
-
-    <toc-element topic="introduction.md"/>
+    <toc-element topic="introduction.md">
+    </toc-element>
+    <toc-element topic="acheive.md">
+        <toc-element topic="owners.md"/>
+        <toc-element topic="researchers.md"/>
+    </toc-element>
+    <toc-element topic="working.md">
+        <toc-element topic="framework.md"/>
+    </toc-element>
+    <toc-element topic="install.md">
+        <toc-element topic="installing-cafe-variome.md"/>
+        <toc-element topic="quick-start.md"/>
+        <toc-element topic="troubleshoot-guide.md"/>
+    </toc-element>
+    <toc-element topic="Collaborations.md"/>
 </instance-profile>
