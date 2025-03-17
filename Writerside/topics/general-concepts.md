@@ -3,7 +3,7 @@
 ## Dashboard
 An Admin Dashboard is made available to get an overview of all things  - number of sources, networks, users and network requests along with disk space usage and number of records per source (if present). This tool is very handy as it gives full control of the installation.
 The sources option on the Admin Dashboard allows the admin to upload data (.csv, .xls, .xslx, phenopacket and .json files) into the CafeVariome.
-<img height="1000" src="Screenshot 2025-03-12 at 16-43-53 Cafe Variome 3 Admin Interface.png" width="1000"/>
+<img height="1000" src="Admin_Dashboard_3.png" width="1000"/>
 
 ## Import Pipelines
 The available data can be uploaded into Cafe Variome using Import Pipelines, which will import different formats of data (.csv, .xls, .xslx, phenopacket and .json files).  Import Pipelines can be customised for each installation. These are procedures, customisable within each installation, by which data that will be queried and potentially shared in results are added into Cafe Variome.
