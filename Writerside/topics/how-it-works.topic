@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="How it works" id="how-it-works" help-id="Section-Starting-Page">
+
+    <section-starting-page>
+        <title>How it works</title>
+        <description>
+            Café Variome is a flexible web-based data discovery tool that any biomedical data owner can install to
+                enable the “existence” rather than the “substance” of the data to be discovered.
+        </description>
+
+        <spotlight>
+            <card href="the-main-parts.md" badge="account" summary="An overall introduction of Cafe Variome V2">The Main Parts</card>
+            <card href="the-framework.md" badge="search" summary="Quickly get started by using docker, or with one of our demos">The Framework</card>
+        </spotlight>
+    </section-starting-page>
+</topic>

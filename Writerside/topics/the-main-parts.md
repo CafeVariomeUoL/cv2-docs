@@ -1,11 +1,11 @@
-# HOW IT WORKS
+# The Main Parts
 
-
-## The Main Parts
 Cafe Variome, in its essence, has two main parts - the Discovery Interface (aka query interface) and the User Management Interface (aka the Admin Dashboard).
 
 Cafe Variome exploits the natural synergy between these two parts and makes use of the best in both to bring out the perfect solution for discovery of data.
+
 ### Discovery Interface
+
 At its simplest, Cafe Variome uses Elasticsearch and Neo4j to index user uploaded data and query it. The user can make the query as simple or as complicated as required. A generic query interface is provided with the initial installation of Cafe Variome. This interface can be tailored to your data using simple PHP, JS and HTML changes.
 
 ### User Management Interface

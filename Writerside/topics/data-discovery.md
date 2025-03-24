@@ -1,6 +1,4 @@
-# WHAT CAN I ACHIEVE?
-
-## Data Discovery
+# Data Discovery
 
 >Discover the data with our powerful query engine. But....why data discovery?
 
@@ -25,8 +23,8 @@ Nevertheless, such systems can still leave considerable uncertainty over whether
 
 The ultimate solution, therefore, is to establish data discovery systems that leverage the data directly, without revealing the data explicitly. This can be achieved by creating search interfaces that allow the discovery of data presented graphically, or which interrogate (but do not necessarily display) merely a core set of "safe" data fields or data organised into summary form. Formally, these approaches do convey some "information" from the data and so must legally be considered to be a narrow form of data sharing. But by design, they create very little opportunity for data abuse, and this can be further minimized by controlling who can undertake discovery searches, and by the use of record-count thresholds below which no discovery hit is reported. 
 
-## Cafe Variome is one such data discovery tool, which is completely flexible to datatypes using its agnostic model, utilising advanced graph-based technologies to take advantage of the semantic similarity and ontology mapping standards.
+**Cafe Variome is one such data discovery tool, which is completely flexible to datatypes using its agnostic model, utilising advanced graph-based technologies to take advantage of the semantic similarity and ontology mapping standards.**
 
 We make it as easy as we can for both the data owner and the user to move forward in the data discovery domain. Cafe Variome is currently being used as a solution for many health data discovery systems as highlighted in our Exemplars section. Cafe Variome's niche is the discovery of data related to rare diseases.
 
-In further sections, we drill down into how Cafe Variome can be useful for **Data Owners** and **Data Discoverers**. 
+In further sections, we drill down into how Cafe Variome can be useful for [](data-owners.md) and [](researchers.md). 

@@ -4,16 +4,20 @@
 
 <instance-profile id="cd"
                  name="CV2 Documents"
-                 start-page="introduction.md">
-    <toc-element topic="introduction.md">
+                 start-page="about-cafe-variome.topic">
+    <toc-element topic="about-cafe-variome.topic">
+        <toc-element topic="introduction.md">
+        </toc-element>
         <toc-element topic="general-concepts.md"/>
+        <toc-element topic="try-it-out.md"/>
     </toc-element>
-    <toc-element topic="acheive.md">
-        <toc-element topic="owners.md"/>
+    <toc-element topic="data-discovery.md">
+        <toc-element topic="data-owners.md"/>
         <toc-element topic="researchers.md"/>
     </toc-element>
-    <toc-element topic="working.md">
-        <toc-element topic="framework.md"/>
+    <toc-element topic="how-it-works.topic">
+        <toc-element topic="the-main-parts.md"/>
+        <toc-element topic="the-framework.md"/>
     </toc-element>
     <toc-element topic="install.md">
         <toc-element topic="installing-cafe-variome.md"/>
