@@ -7,7 +7,6 @@ The following diagram brings together various layers and parts of Cafe Variome:
 
 <img alt="Abstract Architecture" height="1000" src="AbstractArchitecture.png" title="Abstract Architecture" width="1000"/>
 
-
 Cafe Variome functions using 6 basic layers:
 
 * User-facing visual Interface using the CodeIgniter Framework
