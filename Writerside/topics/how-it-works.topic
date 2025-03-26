@@ -13,7 +13,7 @@
 
         <spotlight>
             <card href="the-main-parts.md" badge="account" summary="An overall introduction of Cafe Variome V2">The Main Parts</card>
-            <card href="the-framework.md" badge="search" summary="Quickly get started by using docker, or with one of our demos">The Framework</card>
+            <card href="the-framework.topic" badge="search" summary="Quickly get started by using docker, or with one of our demos">The Framework</card>
         </spotlight>
     </section-starting-page>
 </topic>
