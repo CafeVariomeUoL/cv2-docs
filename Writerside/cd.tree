@@ -17,7 +17,10 @@
     </toc-element>
     <toc-element topic="how-it-works.topic">
         <toc-element topic="the-main-parts.md"/>
-        <toc-element topic="the-framework.md"/>
+        <toc-element topic="the-framework.topic">
+            <toc-element topic="archi-md.md"/>
+            <toc-element topic="service-md.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="install.md">
         <toc-element topic="installing-cafe-variome.md"/>
