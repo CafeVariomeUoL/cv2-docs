@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="the-framework" id="the-framework">
+       title="The Framework" id="the-framework">
 
     <section-starting-page>
         <title>The Framework</title>
@@ -12,8 +12,8 @@
         </description>
 
         <spotlight>
-            <card href="introduction.md" badge="account" summary="An overall introduction of Cafe Variome V2">Introduction</card>
-            <card href="try-it-out.md" badge="search" summary="Quickly get started by using docker, or with one of our demos">Getting started</card>
+            <card href="archi.md" badge="account" summary="An overall Architecture of Cafe Variome V2">Architecture</card>
+            <card href="service.md" badge="search" summary="Details on Cafevariome Service">Cafevariome Service</card>
         </spotlight>
 
         <!--    Add several topics that are most important for this section.    -->

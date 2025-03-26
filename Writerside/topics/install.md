@@ -1,4 +1,4 @@
-# HOW TO INSTALL IT
+# How to Install Cafe Variome
 
 # System Requirements
 
